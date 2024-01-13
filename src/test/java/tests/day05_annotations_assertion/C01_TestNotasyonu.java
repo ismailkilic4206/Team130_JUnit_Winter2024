@@ -1,4 +1,4 @@
-package day05_annotations_assertion;
+package tests.day05_annotations_assertion;
 
 import org.junit.Ignore;
 import org.junit.Test;

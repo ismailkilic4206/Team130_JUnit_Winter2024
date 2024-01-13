@@ -1,4 +1,4 @@
-package day04_MavenIlkGun;
+package tests.day04_MavenIlkGun;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
